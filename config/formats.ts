@@ -373,6 +373,14 @@ export const Formats: FormatList = [
 		restricted: ['Restricted Legendary'],
 	},
 	{
+		name: "[Gen 8] VGC 2021 Unlimited",
+
+		mod: 'gen8',
+		gameType: 'doubles',
+		ruleset: ['Flat Rules', '!! Adjust Level = 50', 'Min Source Gen = 8', 'VGC Timer', 'Limit One Restricted', 'Standard NatDex'],
+		restricted: ['Restricted Legendary'],
+	},
+	{
 		name: "[Gen 8] VGC 2021 Series 9",
 
 		mod: 'gen8',
